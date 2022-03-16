@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AA998A8A-5E90-4808-8305-51318B8EEAC7}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HometasksCsValueReferenceTypes/Program.cs">
+    <Files>
+      <File FileName="HometasksCsValueReferenceTypes/Program.cs" Line="101" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HometasksCsValueReferenceTypes" expanded="True">
+            <Node name="HometasksCsValueReferenceTypes" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HometasksCsValueReferenceTypes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
